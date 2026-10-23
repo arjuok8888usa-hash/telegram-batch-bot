@@ -1,4 +1,4 @@
-```python
+
 #!/usr/bin/env python3
 """
 Authorized Course Batch Exporter & TXT Parser Telegram Bot
